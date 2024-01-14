@@ -14,7 +14,7 @@ pip install py-trello
 # Setup
 1. Clone the repository.
 2. Open main.py and add your Discord Bots Token in line 10.
-3. Open trelloAPI.py and add your Trello api_key,api_secret and token in line 7,8 and 9
+3. Open trelloAPI.py and add your Trello api_key,api_secret and token in line 7,8 and 9.
 4. In trelloAPI.py edit board="NAME_OF_YOUR_TRELLO_BOARD" to your actual Trello Board name and edit trelloList="NAME_OF_YOUR_TRELLO_LIST" to the name of the list in which you want o the bugs to go.
 
 # References
