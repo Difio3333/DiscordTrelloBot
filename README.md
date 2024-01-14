@@ -19,5 +19,7 @@ pip install py-trello
 
 # References
 [Trello API Info](https://developer.atlassian.com/cloud/trello/guides/rest-api/api-introduction/)
+
 [Discord.py Info](https://discordpy.readthedocs.io/en/stable/intro.html)
-[Create a Discorb Bot](https://discord.com/developers/docs/getting-started)
+
+[Create a Discord Bot](https://discord.com/developers/docs/getting-started)
